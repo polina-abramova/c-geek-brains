@@ -1,0 +1,15 @@
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\example_003_sum.csproj.AssemblyReference.cache
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\example_003_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\example_003_sum.AssemblyInfoInputs.cache
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\example_003_sum.AssemblyInfo.cs
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\example_003_sum.csproj.CoreCompileInputs.cache
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\bin\Debug\net6.0\example_003_sum.exe
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\bin\Debug\net6.0\example_003_sum.deps.json
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\bin\Debug\net6.0\example_003_sum.runtimeconfig.json
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\bin\Debug\net6.0\example_003_sum.dll
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\bin\Debug\net6.0\example_003_sum.pdb
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\example_003_sum.dll
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\refint\example_003_sum.dll
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\example_003_sum.pdb
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\example_003_sum.genruntimeconfig.cache
+C:\Users\Никифор\Desktop\c#_first\example_003_sum\obj\Debug\net6.0\ref\example_003_sum.dll
